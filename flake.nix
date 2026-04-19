@@ -114,6 +114,11 @@
           gbs3-wrapper
           gbr3-link
           lua53-link
+          scilab-cli-wrapper
+          axi-wrapper
+          lci-wrapper
+          bsh-wrapper
+          gdc-wrapper
         ];
       in
       {
